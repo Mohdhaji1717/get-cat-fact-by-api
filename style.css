@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.buttonconainer{
+    margin: 50px 0px 10px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.buttonconainer button{
+    font-size: 30px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.buttonconainer p{
+    text-align: justify;
+    width: 50%;
+    word-spacing: value;
+    margin-top: 50px;
+    font-size: 25px;
+}
